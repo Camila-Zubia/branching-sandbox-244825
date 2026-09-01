@@ -1,7 +1,4 @@
 APP_NAME=OrderFlow
-<<<<<<< HEAD
 TIMEOUT=60
-=======
-TIMEOUT=45
->>>>>>> feature/change-timeout
 LOG_LEVEL=INFO
+REGION=SONORA
